@@ -69,7 +69,7 @@ a {
 }
 
 .nav-items div:hover {
-  transition: 0.8s ease;
+  transition: 0.8s ease-out;
   font-weight: bold;
 }
 
@@ -865,4 +865,24 @@ footer{
       width: calc(50% - 10px);
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
